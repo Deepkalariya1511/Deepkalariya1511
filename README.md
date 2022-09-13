@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deep kalariya</h1>
-<h3 align="center">Student at MITS, Gwalior🌟.</h3>
+<h3 align="center">Student at Charusat Univercity🌟.</h3>
 
 <br>
 
